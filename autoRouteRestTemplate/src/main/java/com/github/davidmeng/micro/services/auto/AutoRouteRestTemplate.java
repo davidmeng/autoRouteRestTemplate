@@ -1,4 +1,4 @@
-package com.company.micro.services.auto;
+package com.github.davidmeng.micro.services.auto;
 
 import java.net.URI;
 import java.util.Map;

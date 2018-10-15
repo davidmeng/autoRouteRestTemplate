@@ -1,4 +1,4 @@
-package com.company.micro.services.auto;
+package com.github.davidmeng.micro.services.auto;
 
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.cloud.client.loadbalancer.LoadBalanced;
